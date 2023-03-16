@@ -25,3 +25,7 @@ Note that all of these pictures use a plain white background.Each image is 300 X
 The VGG-16 architecture is composed of 16 layers, including 13 convolution layers and 3 fully connected layers.
 
 Adding a few more layers on top of it to adapt it to the specific task of recognizing hand gestures. The added layers will include a pooling layers, a fully connected layer, and a softmax layer. 
+
+## How to Run?
+
+streamlit run app.py
