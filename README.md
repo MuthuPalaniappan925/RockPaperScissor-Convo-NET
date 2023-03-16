@@ -29,3 +29,13 @@ Adding a few more layers on top of it to adapt it to the specific task of recogn
 ## How to Run?
 
 streamlit run app.py
+
+## Screenshots
+
+![Output](https://github.com/MuthuPalaniappan925/RockPaperScissor-Convo-NET/blob/master/Outputs/output_1.png "Output")
+
+![Output](https://github.com/MuthuPalaniappan925/RockPaperScissor-Convo-NET/blob/master/Outputs/output_2.png "Output")
+
+![Output](https://github.com/MuthuPalaniappan925/RockPaperScissor-Convo-NET/blob/master/Outputs/output_3.png "Output")
+
+![Output](https://github.com/MuthuPalaniappan925/RockPaperScissor-Convo-NET/blob/master/Outputs/output_4.png "Output")
